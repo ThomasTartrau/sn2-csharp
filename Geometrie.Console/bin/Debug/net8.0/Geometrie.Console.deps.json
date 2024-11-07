@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Geometrie.Console/1.0.0": {
+        "dependencies": {
+          "Geometrie.BLL": "1.0.0"
+        },
+        "runtime": {
+          "Geometrie.Console.dll": {}
+        }
+      },
+      "Geometrie.BLL/1.0.0": {
+        "runtime": {
+          "Geometrie.BLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geometrie.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometrie.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\rappelsyntaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|solutionrelative:rappelsyntaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\rappelsyntaxe\\outils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|solutionrelative:rappelsyntaxe\\outils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Outils.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Outils.cs",
+              "RelativeDocumentMoniker": "RappelSyntaxe\\Outils.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Outils.cs",
+              "RelativeToolTip": "RappelSyntaxe\\Outils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:24:20.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Program.cs",
+              "RelativeDocumentMoniker": "RappelSyntaxe\\Program.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Program.cs",
+              "RelativeToolTip": "RappelSyntaxe\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:20:15.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

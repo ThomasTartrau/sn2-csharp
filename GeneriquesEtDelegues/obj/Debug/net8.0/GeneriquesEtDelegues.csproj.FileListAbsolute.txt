@@ -1,0 +1,14 @@
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\bin\Debug\net8.0\GeneriquesEtDelegues.exe
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\bin\Debug\net8.0\GeneriquesEtDelegues.deps.json
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\bin\Debug\net8.0\GeneriquesEtDelegues.runtimeconfig.json
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\bin\Debug\net8.0\GeneriquesEtDelegues.dll
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\bin\Debug\net8.0\GeneriquesEtDelegues.pdb
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.AssemblyInfoInputs.cache
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.AssemblyInfo.cs
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.dll
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\refint\GeneriquesEtDelegues.dll
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.pdb
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.genruntimeconfig.cache
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\ref\GeneriquesEtDelegues.dll

@@ -1,0 +1,14 @@
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\bin\Debug\net8.0\RappelSyntaxe.exe
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\bin\Debug\net8.0\RappelSyntaxe.deps.json
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\bin\Debug\net8.0\RappelSyntaxe.runtimeconfig.json
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\bin\Debug\net8.0\RappelSyntaxe.dll
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\bin\Debug\net8.0\RappelSyntaxe.pdb
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.AssemblyInfoInputs.cache
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.AssemblyInfo.cs
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.dll
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\refint\RappelSyntaxe.dll
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.pdb
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.genruntimeconfig.cache
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\ref\RappelSyntaxe.dll
