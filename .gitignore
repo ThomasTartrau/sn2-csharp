@@ -12,3 +12,5 @@ Geometrie.Console/bin/
 Geometrie.DAL/obj/
 Geometrie.DAL/bin/
 Geometrie.DAL/appsettings.json
+
+Geometrie.DAL.Tests/appsettings.json

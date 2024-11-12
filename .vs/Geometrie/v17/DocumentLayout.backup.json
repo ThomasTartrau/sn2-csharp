@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.dal\\geometriecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\geometriecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.dal.tests\\pointests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|solutionrelative:geometrie.dal.tests\\pointests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeometrieContext.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
-              "RelativeDocumentMoniker": "Geometrie.DAL\\GeometrieContext.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
-              "RelativeToolTip": "Geometrie.DAL\\GeometrieContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Title": "PoinTests.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL.Tests\\PoinTests.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL.Tests\\PoinTests.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL.Tests\\PoinTests.cs",
+              "RelativeToolTip": "Geometrie.DAL.Tests\\PoinTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:51:26.764Z",
+              "WhenOpened": "2024-11-12T11:21:35.732Z",
               "EditorCaption": ""
             }
           ]

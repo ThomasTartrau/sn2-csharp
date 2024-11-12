@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometrie.Console", "Geomet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneriquesEtDelegues", "GeneriquesEtDelegues\GeneriquesEtDelegues.csproj", "{C24CF8D9-9E29-4940-97EC-43A867907B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrie.DAL", "Geometrie.DAL\Geometrie.DAL.csproj", "{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometrie.DAL", "Geometrie.DAL\Geometrie.DAL.csproj", "{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrie.DAL.Tests", "Geometrie.DAL.Tests\Geometrie.DAL.Tests.csproj", "{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0563B66-3AA6-4C24-9275-4DECE7FD44EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

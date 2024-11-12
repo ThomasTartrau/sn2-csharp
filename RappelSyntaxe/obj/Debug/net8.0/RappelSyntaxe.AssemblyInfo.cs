@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RappelSyntaxe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c6fe9953106343d8801a2f84d9c359fb4d19bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11bb9e4245573f82baf4dfc4a3a5c7d7d078a0fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RappelSyntaxe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RappelSyntaxe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
