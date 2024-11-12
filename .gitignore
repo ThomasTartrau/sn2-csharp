@@ -1,4 +1,8 @@
 .vs/
+
+RappelSyntaxe/obj/
+RappelSyntaxe/bin/
+
 Geometrie.BLL/obj/
 Geometrie.BLL/bin/
 

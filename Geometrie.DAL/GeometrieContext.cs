@@ -8,12 +8,14 @@ using System.Threading.Tasks;
 
 namespace Geometrie.DAL
 {
+
     /// <summary>
     /// Classe d'accès aux données pour les formes géométriques
     /// en Entity Framework (Code First)
     /// </summary>
     public class GeometrieContext : DbContext
     {
+        #region Configuration
         //on va récupérer la chaîne de connexion dans le fichier de configuration
         private readonly IConfiguration configuration;
 
@@ -23,7 +25,7 @@ namespace Geometrie.DAL
             //on récupère un objet de configuration
             //à partir d'un fichier de configuration appsettings.json
             var builder = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional:false, reloadOnChange:false);
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: false);
 
             configuration = builder.Build();
         }
@@ -36,5 +38,15 @@ namespace Geometrie.DAL
                 optionsBuilder.UseSqlServer(configuration.GetConnectionString("Geometrie"));
             }
         }
+        #endregion
+
+        #region DbSet
+        /// <summary>
+        /// Je configure un DbSet pour les points
+        /// c'est ça qui va me permettre de faire des requêtes
+        /// et de créer la table Points
+        /// </summary>
+        public DbSet<Point> Points { get; set; }
+        #endregion
     }
 }

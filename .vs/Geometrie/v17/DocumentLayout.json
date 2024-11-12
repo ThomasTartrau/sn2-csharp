@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C24CF8D9-9E29-4940-97EC-43A867907B61}|GeneriquesEtDelegues\\GeneriquesEtDelegues.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\generiquesetdelegues\\deleguequicomparedeuxmachins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24CF8D9-9E29-4940-97EC-43A867907B61}|GeneriquesEtDelegues\\GeneriquesEtDelegues.csproj|solutionrelative:generiquesetdelegues\\deleguequicomparedeuxmachins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.dal\\geometriecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5236FC5C-3B27-45D1-BE12-38AD597DA2F3}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.bll\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\appsettings.json",
-              "RelativeDocumentMoniker": "Geometrie.DAL\\appsettings.json",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\appsettings.json",
-              "RelativeToolTip": "Geometrie.DAL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T09:36:41.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeometrieContext.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
-              "RelativeDocumentMoniker": "Geometrie.DAL\\GeometrieContext.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
-              "RelativeToolTip": "Geometrie.DAL\\GeometrieContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Title": "DelegueQuiCompareDeuxMachins.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\GeneriquesEtDelegues\\DelegueQuiCompareDeuxMachins.cs",
+              "RelativeDocumentMoniker": "GeneriquesEtDelegues\\DelegueQuiCompareDeuxMachins.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\GeneriquesEtDelegues\\DelegueQuiCompareDeuxMachins.cs",
+              "RelativeToolTip": "GeneriquesEtDelegues\\DelegueQuiCompareDeuxMachins.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:16:30.276Z",
+              "WhenOpened": "2024-11-12T10:23:32.337Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +45,22 @@
               "RelativeDocumentMoniker": "Geometrie.DAL\\Class1.cs",
               "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\Class1.cs",
               "RelativeToolTip": "Geometrie.DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:01:41.762Z",
+              "WhenOpened": "2024-11-12T10:23:18.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Triangle.cs",
-              "RelativeDocumentMoniker": "Geometrie.BLL\\Triangle.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Triangle.cs",
-              "RelativeToolTip": "Geometrie.BLL\\Triangle.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GeometrieContext.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\GeometrieContext.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.DAL\\GeometrieContext.cs",
+              "RelativeToolTip": "Geometrie.DAL\\GeometrieContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:54:28.43Z",
+              "WhenOpened": "2024-11-12T09:51:26.764Z",
               "EditorCaption": ""
             }
           ]

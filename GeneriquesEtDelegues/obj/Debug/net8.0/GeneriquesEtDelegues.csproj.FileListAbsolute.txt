@@ -12,3 +12,4 @@ C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\ref
 C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.pdb
 C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.genruntimeconfig.cache
 C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\ref\GeneriquesEtDelegues.dll
+C:\Users\johnr\Documents\dev\Geometrie\GeneriquesEtDelegues\obj\Debug\net8.0\GeneriquesEtDelegues.sourcelink.json

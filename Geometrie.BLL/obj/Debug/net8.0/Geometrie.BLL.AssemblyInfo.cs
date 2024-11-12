@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Geometrie.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d26b23f3bef6d572b5d66c524964c58382bbfe3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c6fe9953106343d8801a2f84d9c359fb4d19bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Geometrie.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Geometrie.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

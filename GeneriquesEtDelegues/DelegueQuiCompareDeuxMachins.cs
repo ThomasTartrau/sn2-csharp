@@ -14,5 +14,5 @@ namespace GeneriquesEtDelegues
     /// <param name="machin1"></param>
     /// <param name="machin2"></param>
     /// <returns>le résultat de la comparaison</returns>
-    public delegate bool DelegueQuiCompareDeuxMachins<TypeDeMachin>(TypeDeMachin machin1, TypeDeMachin machin2)
+    public delegate bool DelegueQuiCompareDeuxMachins<TypeDeMachin>(TypeDeMachin machin1, TypeDeMachin machin2);
 }

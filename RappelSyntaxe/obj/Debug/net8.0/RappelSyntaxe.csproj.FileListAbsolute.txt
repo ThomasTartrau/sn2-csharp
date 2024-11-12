@@ -12,3 +12,4 @@ C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\refint\Rap
 C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.pdb
 C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.genruntimeconfig.cache
 C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\ref\RappelSyntaxe.dll
+C:\Users\johnr\Documents\dev\Geometrie\RappelSyntaxe\obj\Debug\net8.0\RappelSyntaxe.sourcelink.json
