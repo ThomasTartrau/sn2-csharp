@@ -16,3 +16,4 @@ C:\Users\johnr\Documents\dev\Geometrie\Geometrie.Console\obj\Debug\net8.0\refint
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.Console\obj\Debug\net8.0\Geometrie.Console.pdb
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.Console\obj\Debug\net8.0\Geometrie.Console.genruntimeconfig.cache
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.Console\obj\Debug\net8.0\ref\Geometrie.Console.dll
+C:\Users\johnr\Documents\dev\Geometrie\Geometrie.Console\obj\Debug\net8.0\Geometrie.Console.sourcelink.json

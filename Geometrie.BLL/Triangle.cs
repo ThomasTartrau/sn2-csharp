@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Geometrie.BLL.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,9 @@ namespace Geometrie.BLL
             };
 
             listeCote.Sort();
-            
+
             if (listeCote[2] <= listeCote[0] + listeCote[1])
-                throw new ArgumentException("Les points ne forment pas un triangle.");
+                throw new PolygoneException("Les points sont alignés", this);
         }
 
         public override double CalculerAire()

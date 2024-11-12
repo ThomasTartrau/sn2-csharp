@@ -9,3 +9,4 @@ C:\Users\johnr\Documents\dev\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.BLL\obj\Debug\net8.0\refint\Geometrie.BLL.dll
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.pdb
 C:\Users\johnr\Documents\dev\Geometrie\Geometrie.BLL\obj\Debug\net8.0\ref\Geometrie.BLL.dll
+C:\Users\johnr\Documents\dev\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.sourcelink.json

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\rappelsyntaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|solutionrelative:rappelsyntaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60443060-42BC-4BCF-8B56-2EDBB936CCB8}|Geometrie.Console\\Geometrie.Console.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60443060-42BC-4BCF-8B56-2EDBB936CCB8}|Geometrie.Console\\Geometrie.Console.csproj|solutionrelative:geometrie.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\rappelsyntaxe\\outils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00B14B9-7626-4B86-BD3D-945D3680781F}|RappelSyntaxe\\RappelSyntaxe.csproj|solutionrelative:rappelsyntaxe\\outils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.bll\\exceptions\\polygoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\exceptions\\polygoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\johnr\\documents\\dev\\geometrie\\geometrie.bll\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9699485-999F-4643-91A0-2DDDF1067D86}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Outils.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Outils.cs",
-              "RelativeDocumentMoniker": "RappelSyntaxe\\Outils.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Outils.cs",
-              "RelativeToolTip": "RappelSyntaxe\\Outils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Point.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Point.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Point.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Point.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T08:24:20.012Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-12T08:34:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolygoneException.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Exceptions\\PolygoneException.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Exceptions\\PolygoneException.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.BLL\\Exceptions\\PolygoneException.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Exceptions\\PolygoneException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:27:41.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Program.cs",
-              "RelativeDocumentMoniker": "RappelSyntaxe\\Program.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\RappelSyntaxe\\Program.cs",
-              "RelativeToolTip": "RappelSyntaxe\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Geometrie.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\dev\\Geometrie\\Geometrie.Console\\Program.cs",
+              "RelativeToolTip": "Geometrie.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T08:20:15.004Z",
+              "WhenOpened": "2024-11-12T08:21:05.174Z",
               "EditorCaption": ""
             }
           ]

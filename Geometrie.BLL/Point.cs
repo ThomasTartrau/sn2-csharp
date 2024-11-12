@@ -33,7 +33,13 @@
         /// <returns>la distance</returns>
         public double CalculerDistance(Point other)
         {
-            return System.Math.Sqrt(System.Math.Pow(X - other.X, 2) + System.Math.Pow(Y - other.Y, 2));
+            //je lève une exeception si autre est null
+            //if (autre == null)
+            //  throw new ArgumentNullException(nameof(autre));
+            //on peut aussi l'écrire comme ça
+            ArgumentNullException.ThrowIfNull(nameof(other));
+
+            return Math.Sqrt(CalculerDistanceCarre(other));
         }
 
         //toString
@@ -53,6 +59,14 @@
         public static bool operator !=(Point p1, Point p2)
         {
             return !(p1 == p2);
+        }
+
+
+        public int CalculerDistanceCarre(Point autre)
+        {
+            ArgumentNullException.ThrowIfNull(nameof(autre));
+
+            return Convert.ToInt32(Math.Pow(X - autre.X, 2) + Math.Pow(Y - autre.Y, 2));
         }
     }
 }
